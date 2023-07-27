@@ -44,4 +44,6 @@ Fetches metrices for RAM and storage
 - Follow the steps from here:
 - [Download and configure the CloudWatch agent using the command line](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html#download-CloudWatch-Agent-on-EC2-Instance-commandline-first)
 - Attach IAM Role created in step 1 to your instance from EC2 dashboard > Security
- :+1:Good luck. END  :shipit:
+
+
+:+1:Good luck. END  :shipit:
