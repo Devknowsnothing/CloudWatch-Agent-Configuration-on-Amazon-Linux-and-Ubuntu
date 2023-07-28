@@ -4,7 +4,7 @@ Fetches metrices for RAM and storage
 1. Inside IAM dashboard, go to `Roles`:
    - In step 1, make sure to choose `AWS Service` and `EC2` respectively for `Trusted entity type` & `Use case`
    - In step 2, choose `CloudWatchAgentAdminPolicy` and `AmazonSSMManagedInstanceCore`
-   - In step 3, name the role `CloudWatchAgentAdminRole` review and hit `Create`
+   - In step 3, name the role `CloudWatchAgentAdminRole`, review and hit `Create`
 2. Go to Amazon Systems Manager Dashboard:
    - Go to `Paramater Store` under `Application Management`
    - Hit `Create Parameter`
