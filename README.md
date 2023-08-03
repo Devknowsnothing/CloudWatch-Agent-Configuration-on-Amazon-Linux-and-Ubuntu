@@ -57,6 +57,6 @@ Fetches metrices for RAM and storage
 - Check custom namespace called `CWAgent`inside `All Metrics`
 
 #### Note:
-- [Detailed explnation for signature verification and CloudWatch Agent installation for all instances types](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html#download-CloudWatch-Agent-on-EC2-Instance-commandline-first)
+- [Detailed explanation for signature verification and CloudWatch Agent installation for all instances types](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html#download-CloudWatch-Agent-on-EC2-Instance-commandline-first)
 
 :+1:Good luck. END  :shipit:
